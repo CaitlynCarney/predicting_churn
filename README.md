@@ -138,10 +138,6 @@
         - Finish with key takeaways, recommendations, and next steps and be prepared to answer questions from the data science team about your project.
         - Remember you have a time limit of 5 minutes for your presentation. Make sure you practice your notebook walkthrough keeping this time limit in mind; it will go by very quickly.
 
-
-- Include a data dictionary to provide context for and explain your data.
-
-
 - Clearly state your starting hypotheses and add the testing of these to your task list.(going into it you already look at the data and did a project, state these thoguhts, they dont have to be formal hypothesis)
     - Higher Monthly Charges drive churn
     - Whether someone is single with no kids drives chrun
