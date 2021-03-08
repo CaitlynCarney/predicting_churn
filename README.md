@@ -1,6 +1,3 @@
-# Project Planning
- **Plan** -> Acquire -> Prepare -> Explore -> Model & Evaluate -> Deliver
-
 - Time Management:
     - Day 1 (Friday, 5th of March)
         - Finish Planning Stage
@@ -18,6 +15,9 @@
         - Practice
     - Day 5 (Tuesday, 9th of March)
         - Present
+
+# Project Planning
+ **Plan** -> Acquire -> Prepare -> Explore -> Model & Evaluate -> Deliver
 
 - Project description:
     - By using what I have learned in the Classification Module:
