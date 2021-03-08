@@ -1,14 +1,21 @@
 - Time Management:
     - Day 1 (Friday, 5th of March)
         - Finish Planning Stage
+            - Completed
         - Finish the Acquire Stage
+            - Completed
     - Day 2 ( Saturday, 6th of March)
         - Finish Prepare stage
+            - 
         - Finsih Explore Stage
+            - 
     - Day 3 (Sunday, 7th of March)
         - Finish MOdel and Evaluate Stage
+            - 
         - Clean up Notebook
+            - 
         - Start practicing delivery
+            - 
     - Day 4 (Monday, 8th of March)
         - Practice
         - Practice
@@ -144,3 +151,37 @@
     - If someone has Fiber they are more likey to churn
     - If someone has a phone service they are more likely to stay.
     - Contracts of single people with no children, with the a month to month contract have extremely high churn.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Acquiring
+ Plan -> **Acquire** -> Prepare -> Explore -> Model & Evaluate -> Deliver
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Preperation
+ Plan -> Acquire -> **Prepare** -> Explore -> Model & Evaluate -> Deliver
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Exploration
+ Plan -> Acquire -> Prepare -> **Explore** -> Model & Evaluate -> Deliver
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Modeling and Evaluation
+ Plan -> Acquire -> Prepare -> Explore -> **Model & Evaluate** -> Deliver
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Delivery
+ Plan -> Acquire -> Prepare -> Explore -> Model & Evaluate -> **Deliver**
